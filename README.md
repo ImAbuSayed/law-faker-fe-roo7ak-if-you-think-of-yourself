@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> لو فاكر في روحك إني نسيتك
+> ده خيالك بيسري في كل وريدي
+> نار الشوق بتنادي في صمتك
+> يا اللي طيفك دايما في عيني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
