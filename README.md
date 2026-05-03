@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Law Faker Fe Roo7ak – If You Think of Yourself |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 25, 2026 |
+| Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/law-faker-fe-roo7ak-if-you-think-of-yourself/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
